@@ -1,0 +1,11 @@
+name = "cat-toxicity-api"
+main = "src/index.ts"
+compatibility_date = "2025-09-12"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "cattox"
+database_id = "52959fe0-24a1-456c-aa78-6e788dfa75d9"
+
+[vars]
+CACHE_SECONDS = "600"
